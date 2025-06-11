@@ -1,6 +1,6 @@
 # Cross_selling
 
-Cross-Selling Product Recommendations
+### Cross-Selling Product Recommendations
 This Streamlit application helps you provide personalized cross-selling recommendations for products. Given a set of association rules, the app allows you to select a product and get a list of related products that customers are likely to purchase together.
 
 Features
